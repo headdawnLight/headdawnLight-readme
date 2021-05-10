@@ -1,6 +1,6 @@
 <h1>Hi there &#128075; Welcome to my GitHub profile &#128522;</h1>
 
-  <p>I started my software career in September 2020 as an associate degree student in computer programming. 
+  <p>I started my software career as a computer programming associate degree student in September 2020. 
 I also continue to develop myself as a fullstack developer candidate with tutorial sets. (freeCodeCamp & w3school etc.)</p>
 
   <p>As a fullstack developer candidate, I develop web projects using up-to-date web technologies and tools. 
