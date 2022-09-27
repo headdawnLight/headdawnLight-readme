@@ -1,10 +1,8 @@
 <h1>Hi there &#128075; Welcome to my GitHub profile &#128522;</h1>
 
-  <p>I started my software career as a computer programming associate degree student in September 2020. 
-I also continue to improve myself as a full-stack web developer candidate with tutorial sets. (freeCodeCamp & w3school etc.)</p>
+  <p>My biggest passion is learning about software and technology. I started my software career as a computer programming associate degree student in September 2020.</p>
 
-  <p>As a full-stack web developer candidate, I develop web projects using up-to-date web technologies and tools. 
-I consider design patterns, solid principles, best practices, accessibility and W3C standards when I develop my web projects.</p>
+  <p>With a productive and creative spirit, I develop software projects using up-to-date software technologies and tools. I consider design patterns, solid principles, best practices, accessibility and W3C standards.</p>
 
 <h2>Technologies & Tools &#128736;</h2>
 
