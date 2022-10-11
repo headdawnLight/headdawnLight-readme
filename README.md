@@ -1,8 +1,6 @@
 <h1>Hi there &#128075; Welcome to my GitHub profile &#128522;</h1>
 
-  <p>My biggest passion is learning about software and technology. I started my software career as a computer programming associate degree student in September 2020.</p>
-
-  <p>With a productive and creative spirit, I develop software projects using up-to-date software technologies and tools. I consider design patterns, solid principles, best practices, accessibility and W3C standards.</p>
+  <p>I have a productive and creative spirit. My biggest passion is learning about software and technology. I develop software projects using up-to-date software technologies and tools. I consider design patterns, solid principles, best practices, accessibility and W3C standards.</p>
 
 <h2>Technologies & Tools &#128736;</h2>
 
